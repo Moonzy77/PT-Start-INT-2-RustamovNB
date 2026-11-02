@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1055" height="1138" viewBox="0 0 1055 1138"><defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="7" refY="4" orient="auto"><path d="M1,1 L7,4 L1,7" fill="none" stroke="#475569" stroke-width="1.5"/></marker></defs><rect x="12" y="16" width="1031" height="235" rx="12" fill="#f8fafc" stroke="#cbd5e1"/>
+<text x="30" y="46" font-size="17" font-weight="bold" fill="#1e293b">Нарушение работы VK ID</text>
+<path d="M308,107 L354,107" stroke="#475569" stroke-width="1.8" fill="none" marker-end="url(#arrow)"/>
+<path d="M638,107 L684,107" stroke="#475569" stroke-width="1.8" fill="none" marker-end="url(#arrow)"/>
+<path d="M308,107 L354,183" stroke="#475569" stroke-width="1.8" fill="none" marker-end="url(#arrow)"/>
+<path d="M638,183 L684,183" stroke="#475569" stroke-width="1.8" fill="none" marker-end="url(#arrow)"/>
+<rect x="30" y="80" width="275" height="56" rx="8" fill="white" stroke="#64748b"/>
+<text x="167.5" y="113" text-anchor="middle" font-size="14" fill="#0f172a">VK ID</text>
+<rect x="360" y="80" width="275" height="56" rx="8" fill="white" stroke="#64748b"/>
+<text x="497.5" y="113" text-anchor="middle" font-size="14" fill="#0f172a">Вход в Почту Mail</text>
+<rect x="360" y="156" width="275" height="56" rx="8" fill="white" stroke="#64748b"/>
+<text x="497.5" y="189" text-anchor="middle" font-size="14" fill="#0f172a">Вход во ВКонтакте</text>
+<rect x="690" y="80" width="275" height="56" rx="8" fill="white" stroke="#64748b"/>
+<text x="827.5" y="113" text-anchor="middle" font-size="14" fill="#0f172a">Пользователи Почты Mail</text>
+<rect x="690" y="156" width="275" height="56" rx="8" fill="white" stroke="#64748b"/>
+<text x="827.5" y="189" text-anchor="middle" font-size="14" fill="#0f172a">Пользователи ВКонтакте</text>
+<rect x="12" y="265" width="1031" height="159" rx="12" fill="#f8fafc" stroke="#cbd5e1"/>
+<text x="30" y="295" font-size="17" font-weight="bold" fill="#1e293b">Сбой инфраструктуры VK Cloud</text>
+<path d="M308,356 L354,356" stroke="#475569" stroke-width="1.8" fill="none" marker-end="url(#arrow)"/>
+<path d="M638,356 L684,356" stroke="#475569" stroke-width="1.8" fill="none" marker-end="url(#arrow)"/>
+<rect x="30" y="329" width="275" height="56" rx="8" fill="white" stroke="#64748b"/>
+<text x="167.5" y="362" text-anchor="middle" font-size="14" fill="#0f172a">VK Cloud</text>
+<rect x="360" y="329" width="275" height="56" rx="8" fill="white" stroke="#64748b"/>
+<text x="497.5" y="362" text-anchor="middle" font-size="14" fill="#0f172a">Приложения клиентов VK Cloud</text>
+<rect x="690" y="329" width="275" height="56" rx="8" fill="white" stroke="#64748b"/>
+<text x="827.5" y="362" text-anchor="middle" font-size="14" fill="#0f172a">Бизнес-процессы клиентов</text>
+<rect x="12" y="438" width="1031" height="159" rx="12" fill="#f8fafc" stroke="#cbd5e1"/>
+<text x="30" y="468" font-size="17" font-weight="bold" fill="#1e293b">Инцидент в YCLIENTS</text>
+<path d="M308,529 L354,529" stroke="#475569" stroke-width="1.8" fill="none" marker-end="url(#arrow)"/>
+<path d="M638,529 L684,529" stroke="#475569" stroke-width="1.8" fill="none" marker-end="url(#arrow)"/>
+<rect x="30" y="502" width="275" height="56" rx="8" fill="white" stroke="#64748b"/>
+<text x="167.5" y="535" text-anchor="middle" font-size="14" fill="#0f172a">YCLIENTS</text>
+<rect x="360" y="502" width="275" height="56" rx="8" fill="white" stroke="#64748b"/>
+<text x="497.5" y="535" text-anchor="middle" font-size="14" fill="#0f172a">Онлайн-запись через ВКонтакте</text>
+<rect x="690" y="502" width="275" height="56" rx="8" fill="white" stroke="#64748b"/>
+<text x="827.5" y="535" text-anchor="middle" font-size="14" fill="#0f172a">Клиенты организаций</text>
+<rect x="12" y="611" width="1031" height="159" rx="12" fill="#f8fafc" stroke="#cbd5e1"/>
+<text x="30" y="641" font-size="17" font-weight="bold" fill="#1e293b">Инцидент Учи.ру</text>
+<path d="M308,702 L354,702" stroke="#475569" stroke-width="1.8" fill="none" marker-end="url(#arrow)"/>
+<path d="M638,702 L684,702" stroke="#475569" stroke-width="1.8" fill="none" marker-end="url(#arrow)"/>
+<rect x="30" y="675" width="275" height="56" rx="8" fill="white" stroke="#64748b"/>
+<text x="167.5" y="708" text-anchor="middle" font-size="14" fill="#0f172a">Учи.ру</text>
+<rect x="360" y="675" width="275" height="56" rx="8" fill="white" stroke="#64748b"/>
+<text x="497.5" y="699" text-anchor="middle" font-size="14" fill="#0f172a">Совместное мероприятие с VK</text>
+<text x="497.5" y="717" text-anchor="middle" font-size="14" fill="#0f172a">Education</text>
+<rect x="690" y="675" width="275" height="56" rx="8" fill="white" stroke="#64748b"/>
+<text x="827.5" y="708" text-anchor="middle" font-size="14" fill="#0f172a">Участники мероприятия</text>
+<rect x="12" y="784" width="1031" height="159" rx="12" fill="#f8fafc" stroke="#cbd5e1"/>
+<text x="30" y="814" font-size="17" font-weight="bold" fill="#1e293b">Инцидент у партнёра VK Education</text>
+<path d="M308,875 L354,875" stroke="#475569" stroke-width="1.8" fill="none" marker-end="url(#arrow)"/>
+<path d="M638,875 L684,875" stroke="#475569" stroke-width="1.8" fill="none" marker-end="url(#arrow)"/>
+<rect x="30" y="848" width="275" height="56" rx="8" fill="white" stroke="#64748b"/>
+<text x="167.5" y="881" text-anchor="middle" font-size="14" fill="#0f172a">Университет-партнёр</text>
+<rect x="360" y="848" width="275" height="56" rx="8" fill="white" stroke="#64748b"/>
+<text x="497.5" y="872" text-anchor="middle" font-size="14" fill="#0f172a">Регистрация на программу VK</text>
+<text x="497.5" y="890" text-anchor="middle" font-size="14" fill="#0f172a">Education</text>
+<rect x="690" y="848" width="275" height="56" rx="8" fill="white" stroke="#64748b"/>
+<text x="827.5" y="872" text-anchor="middle" font-size="14" fill="#0f172a">Участники образовательной</text>
+<text x="827.5" y="890" text-anchor="middle" font-size="14" fill="#0f172a">программы</text>
+<rect x="12" y="957" width="1031" height="159" rx="12" fill="#f8fafc" stroke="#cbd5e1"/>
+<text x="30" y="987" font-size="17" font-weight="bold" fill="#1e293b">Инцидент внешней интеграции Маруси</text>
+<path d="M308,1048 L354,1048" stroke="#475569" stroke-width="1.8" fill="none" marker-end="url(#arrow)"/>
+<path d="M638,1048 L684,1048" stroke="#475569" stroke-width="1.8" fill="none" marker-end="url(#arrow)"/>
+<rect x="30" y="1021" width="275" height="56" rx="8" fill="white" stroke="#64748b"/>
+<text x="167.5" y="1054" text-anchor="middle" font-size="14" fill="#0f172a">Внешний сервис для Маруси</text>
+<rect x="360" y="1021" width="275" height="56" rx="8" fill="white" stroke="#64748b"/>
+<text x="497.5" y="1054" text-anchor="middle" font-size="14" fill="#0f172a">Интегрированная функция Маруси</text>
+<rect x="690" y="1021" width="275" height="56" rx="8" fill="white" stroke="#64748b"/>
+<text x="827.5" y="1054" text-anchor="middle" font-size="14" fill="#0f172a">Пользователи Маруси</text></svg>

@@ -1,0 +1,21 @@
+﻿id,name
+vk_id,VK ID
+mail_login,Вход в Почту Mail
+mail_users,Пользователи Почты Mail
+vk_login,Вход во ВКонтакте
+vk_users,Пользователи ВКонтакте
+vk_cloud,VK Cloud
+cloud_apps,Приложения клиентов VK Cloud
+client_processes,Бизнес-процессы клиентов
+yclients,YCLIENTS
+vk_booking,Онлайн-запись через ВКонтакте
+business_visitors,Клиенты организаций
+uchi,Учи.ру
+education_event,Совместное мероприятие с VK Education
+event_participants,Участники мероприятия
+university,Университет-партнёр
+education_registration,Регистрация на программу VK Education
+education_students,Участники образовательной программы
+external_marusya,Внешний сервис для Маруси
+marusya_function,Интегрированная функция Маруси
+marusya_users,Пользователи Маруси
